@@ -1,0 +1,2 @@
+# NurJihadAplKotlin
+Aplikasi Kotlin Sederhana
